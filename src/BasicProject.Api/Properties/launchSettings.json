@@ -1,0 +1,24 @@
+﻿{
+  "iisSettings": {
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:59569",
+      "sslPort": 0
+    },
+    "windowsAuthentication": false
+  },
+  "profiles": {
+    "Kestrel": {
+      "applicationUrl": "http://localhost:59569",
+      "commandLineArgs": "",
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "externalUrlConfiguration": false,
+      "launchBrowser": true,
+      "launchUrl": "/identity/swagger",
+      "use64Bit": true
+    }
+  }
+}
